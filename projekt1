@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>tak</title>
+	<meta charset="utf-8">
+	<style type="text/css">
+		header{background-color: #b9b3d0; text-align: center; height: 10vw; margin-bottom: 5px; margin-top: 5px; margin-left: 5px; margin-right: 5px; clear: both}
+		nav{background-color: #e3763b; text-align: center; height: 10vw;margin-bottom: 5px; margin-top: 5px; margin-left: 5px; margin-right: 5px; clear: both}
+		aside{background-color: #90dae0; text-align: center; height: 70vw; width: 30%; margin-bottom: 5px; margin-top: 5px; margin-left: 5px; margin-right: 5px; float: left;}
+		main{background-color: #bedc5b; text-align: center; height: 70vw; width: 37%; margin-bottom: 5px; margin-top: 5px; margin-left: 10px; margin-right: 10px; float: left;}
+		footer{background-color: #c75bdc; text-align: center; height: 10vw; margin-bottom: 5px; margin-top: 5px; margin-left: 5px; margin-right: 5px; clear: both;}
+	</style>
+</head>
+<body>
+<header>header</header>
+<nav>nav</nav>
+<aside>aside</aside>
+<main>main</main>
+<aside>aside</aside>
+<footer>footer</footer>
+</body>
+</html>
